@@ -116,15 +116,19 @@ npm run dev
 npm run test
 ```
 
-#### endpoint
+### endpoint
 
 You can send data by.
-``POST
-    http://localhost:3000/capturar-datos`
+POST
+
+```sh
+http://localhost:3000/capturar-datos
+```
+
 the type content is a text/plain
 set body from INPUT - format
 
-#### test
+### test
 
 The text must be pasted without spaces, only line breaks.
 
