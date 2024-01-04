@@ -94,7 +94,11 @@ when the limits is (5,5)
 $ npm install
 ```
 
-### Server
+### Node version
+
+v20.10.0
+
+## Server
 
 You can use the next commands.
 
